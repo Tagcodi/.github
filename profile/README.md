@@ -1,7 +1,7 @@
 # 🚀 Tagcodi
 
 <div align="center">
-  <img src="assets/logo.png" alt="Tagcodi Logo" width="200"/>
+  <img src="../assets/logo.png" alt="Tagcodi Logo" width="200"/>
   
   [![Website](https://img.shields.io/badge/Website-tagcodi.com-blue)](https://tagcodi.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tagcodi-0077B5)](https://linkedin.com/company/tagcodi)
