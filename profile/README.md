@@ -10,15 +10,16 @@
   *Building the Future, One Line of Code at a Time*
 </div>
 
-## ✨ About Us
+## ✨ About Tagcodi
 
-Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal brand and is growing into a future tech company focused on building intelligent, scalable solutions that solve real-world problems through the power of development and AI.
+**Tagcodi** stands for "Tagging Code with Purpose." We are a forward-thinking technology organization focused on building intelligent, scalable solutions that solve real-world problems through the power of development and AI.
 
 <div align="center">
   
   ![AI](https://img.shields.io/badge/AI-Powered-FF6B6B)
   ![Development](https://img.shields.io/badge/Development-Focused-4ECDC4)
   ![Innovation](https://img.shields.io/badge/Innovation-Driven-45B7D1)
+  ![Mobile](https://img.shields.io/badge/Mobile-Native-FF6B35)
   
 </div>
 
@@ -30,11 +31,11 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 
 <div align="center">
 
-| 🎯 Precision | ⚡ Speed | 🔒 Security |
-|:------------:|:--------:|:-----------:|
-| Meticulous attention to detail | Rapid development cycles | Enterprise-grade security |
-| Clean, maintainable code | Quick deployment | Data protection |
-| Best practices | Efficient solutions | Privacy first |
+| 🎯 Precision | ⚡ Speed | 🔒 Security | 🚀 Innovation |
+|:------------:|:--------:|:-----------:|:-------------:|
+| Meticulous attention to detail | Rapid development cycles | Enterprise-grade security | Cutting-edge technologies |
+| Clean, maintainable code | Quick deployment | Data protection | AI-powered solutions |
+| Best practices | Efficient solutions | Privacy first | Mobile-first approach |
 
 </div>
 
@@ -42,11 +43,11 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 
 <div align="center">
 
-| AI Solutions | Development | Consulting |
-|:------------:|:------------:|:------------:|
-| 🤖 Custom AI Agents | 💻 Custom Software | ☁️ Cloud Solutions |
-| 🧠 AI-Powered Systems | 🌐 Web Applications | 🔄 Digital Transformation |
-| 📱 Mobile Apps | 📊 Technical Consulting | |
+| AI Solutions | Development | Mobile Apps | Consulting |
+|:------------:|:------------:|:------------:|:------------:|
+| 🤖 Custom AI Agents | 💻 Custom Software | 📱 iOS Development | ☁️ Cloud Solutions |
+| 🧠 AI-Powered Systems | 🌐 Web Applications | 📱 Android Development | 🔄 Digital Transformation |
+| 🔄 Process Automation | 📊 Technical Consulting | 📱 Cross-Platform | 🏗️ System Architecture |
 
 </div>
 
@@ -54,13 +55,9 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 
 <div align="center">
 
-| Innovation | Quality | Collaboration |
-|:----------:|:-------:|:-------------:|
-| It embraces new technologies and creative solutions | It maintains the highest standards in everything it does | It believes in the power of teamwork and partnership |
-
-| Integrity | Excellence |
-|:---------:|:----------:|
-| It operates with transparency and honesty | It strives for excellence in every project |
+| Innovation | Quality | Collaboration | Excellence |
+|:----------:|:-------:|:-------------:|:----------:|
+| Embracing new technologies and creative solutions | Maintaining the highest standards in everything we do | Believing in the power of teamwork and partnership | Striving for excellence in every project |
 
 </div>
 
@@ -68,12 +65,26 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 
 <div align="center">
 
+### 🐍 Backend & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🌐 Frontend & Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -86,16 +97,19 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 | Repository | Description | Tech Stack | Status |
 |:----------:|:------------|:----------:|:------:|
 | [**AI Agent Platform**](https://github.com/tagcodi/ai-agent-platform) | Intelligent AI agents for business automation | Python, FastAPI, OpenAI | 🚀 Active |
-| [**Web App Template**](https://github.com/tagcodi/web-app-template) | Modern React/Next.js starter template | React, Next.js, TypeScript | ⭐ Popular |
-| [**Payment Integration**](https://github.com/tagcodi/payment-integration) | Multi-gateway payment processing | Node.js, Stripe, PayPal | 🔧 Maintained |
+| [**Mobile App Template**](https://github.com/tagcodi/mobile-app-template) | Cross-platform mobile app starter | Kotlin, Swift, React Native | ⭐ Popular |
+| [**Web App Template**](https://github.com/tagcodi/web-app-template) | Modern React/Next.js starter template | React, Next.js, TypeScript | 🔧 Maintained |
+| [**Payment Integration**](https://github.com/tagcodi/payment-integration) | Multi-gateway payment processing | Node.js, Stripe, PayPal | 🛠️ Active |
 
 ### 📈 Repository Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tagcodi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tagcodi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tagcodi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tagcodi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8&exclude_repo=tagcodi.github.io)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tagcodi&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=tagcodi&color=00D4AA&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -105,12 +119,14 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 
 | Service | Description | Technologies |
 |:-------:|:------------|:------------:|
-| **🤖 AI Agent Development** | Custom AI agents and automation solutions | Python, OpenAI, LangChain |
-| **💻 Web Applications** | Modern, responsive web applications | React, Next.js, Node.js |
-| **📱 Mobile Development** | Cross-platform mobile applications | React Native, Flutter |
-| **☁️ Cloud Solutions** | Scalable cloud infrastructure | AWS, Azure, Google Cloud |
-| **💳 Payment Integration** | Secure payment processing | Stripe, PayPal, Square |
-| **📊 Data Analytics** | Business intelligence and insights | Python, SQL, Power BI |
+| **🤖 AI Agent Development** | Custom AI agents and automation solutions | Python, OpenAI, LangChain, FastAPI |
+| **💻 Web Applications** | Modern, responsive web applications | React, Next.js, TypeScript, Node.js |
+| **📱 iOS Development** | Native iOS applications | Swift, SwiftUI, UIKit, Core Data |
+| **📱 Android Development** | Native Android applications | Kotlin, Jetpack Compose, Android SDK |
+| **📱 Cross-Platform Mobile** | Multi-platform mobile solutions | React Native, Flutter, Kotlin Multiplatform |
+| **☁️ Cloud Solutions** | Scalable cloud infrastructure | AWS, Azure, Google Cloud, Docker |
+| **💳 Payment Integration** | Secure payment processing | Stripe, PayPal, Square, Node.js |
+| **📊 Data Analytics** | Business intelligence and insights | Python, SQL, Power BI, Tableau |
 
 </div>
 
@@ -124,6 +140,23 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 | **Happy Clients** | 30+ |
 | **Years Experience** | 7+ |
 | **Technologies Mastered** | 15+ |
+| **Mobile Apps Delivered** | 20+ |
+| **AI Solutions Deployed** | 25+ |
+
+</div>
+
+## 🎨 Our Expertise
+
+<div align="center">
+
+### 🎯 Core Competencies
+
+- **AI & Machine Learning**: Custom AI models, automation, and intelligent systems
+- **Mobile Development**: Native iOS/Android and cross-platform solutions
+- **Web Development**: Modern, scalable web applications
+- **Cloud Architecture**: Scalable infrastructure and DevOps
+- **Payment Systems**: Secure financial transaction processing
+- **Data Analytics**: Business intelligence and insights
 
 </div>
 
