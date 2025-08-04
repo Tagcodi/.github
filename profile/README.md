@@ -103,11 +103,11 @@
 
 ### 📈 Tagcodi Organization Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tagcodi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Tagcodi%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tagcodi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Tagcodi%20GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tagcodi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8&exclude_repo=tagcodi.github.io&custom_title=Tagcodi%20Top%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagcodi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8&exclude_repo=tagcodi.github.io&custom_title=Tagcodi%20Top%20Languages)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tagcodi&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tagcodi&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=tagcodi&color=00D4AA&style=flat-square&label=Tagcodi+Profile+Views)
 
