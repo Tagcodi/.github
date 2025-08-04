@@ -77,18 +77,53 @@ Tagcodi stands for "Tagging Code with Purpose." It began as Menaseh's personal b
 
 </div>
 
-## 📈 Our Process
+## 📊 Public Repositories
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Discovery] --> B[Design]
-    B --> C[Development]
-    C --> D[Testing]
-    D --> E[Deployment]
-    E --> F[Support]
-```
+### 🔥 Featured Projects
+
+| Repository | Description | Tech Stack | Status |
+|:----------:|:------------|:----------:|:------:|
+| [**AI Agent Platform**](https://github.com/tagcodi/ai-agent-platform) | Intelligent AI agents for business automation | Python, FastAPI, OpenAI | 🚀 Active |
+| [**Web App Template**](https://github.com/tagcodi/web-app-template) | Modern React/Next.js starter template | React, Next.js, TypeScript | ⭐ Popular |
+| [**Payment Integration**](https://github.com/tagcodi/payment-integration) | Multi-gateway payment processing | Node.js, Stripe, PayPal | 🔧 Maintained |
+
+### 📈 Repository Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tagcodi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tagcodi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tagcodi&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+
+</div>
+
+## 🌐 Services Offered
+
+<div align="center">
+
+| Service | Description | Technologies |
+|:-------:|:------------|:------------:|
+| **🤖 AI Agent Development** | Custom AI agents and automation solutions | Python, OpenAI, LangChain |
+| **💻 Web Applications** | Modern, responsive web applications | React, Next.js, Node.js |
+| **📱 Mobile Development** | Cross-platform mobile applications | React Native, Flutter |
+| **☁️ Cloud Solutions** | Scalable cloud infrastructure | AWS, Azure, Google Cloud |
+| **💳 Payment Integration** | Secure payment processing | Stripe, PayPal, Square |
+| **📊 Data Analytics** | Business intelligence and insights | Python, SQL, Power BI |
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Metric | Achievement |
+|:------:|:-----------:|
+| **Projects Completed** | 50+ |
+| **Happy Clients** | 30+ |
+| **Years Experience** | 7+ |
+| **Technologies Mastered** | 15+ |
 
 </div>
 
@@ -99,6 +134,7 @@ graph LR
 [![Website](https://img.shields.io/badge/🌐_Visit_Website-tagcodi.com-blue)](https://tagcodi.com)
 [![Email](https://img.shields.io/badge/📧_Email_Us-contact@tagcodi.com-red)](mailto:contact@tagcodi.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Follow_Us-Tagcodi-0077B5)](https://linkedin.com/company/tagcodi)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Tagcodi-181717)](https://github.com/tagcodi)
 
 </div>
 
