@@ -105,7 +105,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menasehk13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Tagcodi%20GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menasehk13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=6&custom_title=My%20Top%20Languages&card_width=400&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=tagcodi.github.io)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menasehk13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=6&custom_title=My%20Top%20Languages&card_width=400&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=menasehk13&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
